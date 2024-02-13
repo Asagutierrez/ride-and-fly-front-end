@@ -27,6 +27,7 @@ import * as authService from './services/authService'
 import * as postService from './services/postService'
 import * as profileService from './services/profileService'
 import * as messageService from './services/messageService'
+import * as tripService from './services/tripService'
 // import * as tripService from './services/tripService'
 
 // styles
